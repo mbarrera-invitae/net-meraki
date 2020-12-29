@@ -1,0 +1,1028 @@
+{
+    "org_id": "584072",
+    "org_name": "Invitae",
+    "network_ids": {
+        "sfo03": "L_651896046061880029",
+        "san01": "L_651896046061887206",
+        "SNA01": "L_684547143360319370",
+        "BOS03": "L_684547143360320641",
+        "SNA02": "L_684547143360324186",
+        "JFK01": "L_732397889401127443",
+        "TLV01": "L_732397889401127743",
+        "SYD01": "L_732397889401127747"
+    },
+    "L_651896046061880029": {
+        "name": "sfo03",
+        "NumberOfDevices": "71",
+        "Devices": [
+            {
+                "serial": "Q2JD-CVKP-8A8M",
+                "mac": "e0:55:3d:ab:1b:00",
+                "lanIp": "172.18.0.169",
+                "model": "MR32"
+            },
+            {
+                "serial": "Q2JD-RPFE-FFQC",
+                "mac": "e0:55:3d:ad:0c:b0",
+                "lanIp": "172.18.0.151",
+                "model": "MR32"
+            },
+            {
+                "serial": "Q2JD-QAUR-YDYL",
+                "mac": "e0:55:3d:a8:b3:a0",
+                "lanIp": "172.18.0.156",
+                "model": "MR32"
+            },
+            {
+                "serial": "Q2MD-CU7P-DBL5",
+                "mac": "ac:17:c8:a3:0c:e2",
+                "lanIp": "172.18.0.234",
+                "model": "MR53"
+            },
+            {
+                "serial": "Q2JD-CVU4-94PF",
+                "mac": "e0:55:3d:ab:1b:80",
+                "lanIp": "172.18.0.143",
+                "model": "MR32"
+            },
+            {
+                "serial": "Q2JD-KD63-FPXF",
+                "mac": "e0:55:3d:ac:13:b0",
+                "lanIp": "172.18.0.160",
+                "model": "MR32"
+            },
+            {
+                "serial": "Q2JD-FR8Z-7H8F",
+                "mac": "e0:55:3d:ab:89:b0",
+                "lanIp": "172.18.0.138",
+                "model": "MR32"
+            },
+            {
+                "serial": "Q2JD-XFWU-N7S8",
+                "mac": "e0:55:3d:a9:3e:c0",
+                "lanIp": "172.18.0.150",
+                "model": "MR32"
+            },
+            {
+                "serial": "Q2MD-63VF-4NTC",
+                "mac": "ac:17:c8:a3:0b:e2",
+                "lanIp": "172.18.0.187",
+                "model": "MR53"
+            },
+            {
+                "serial": "Q2LD-V34G-LR4U",
+                "mac": "88:15:44:50:6e:1a",
+                "lanIp": "172.18.0.152",
+                "model": "MR52"
+            },
+            {
+                "serial": "Q2JD-CHKD-XJAS",
+                "mac": "e0:55:3d:bd:5d:b0",
+                "lanIp": "172.18.0.175",
+                "model": "MR32"
+            },
+            {
+                "serial": "Q2JD-FSB7-4FWZ",
+                "mac": "e0:55:3d:ab:8b:20",
+                "lanIp": "172.18.0.174",
+                "model": "MR32"
+            },
+            {
+                "serial": "Q2PD-HP6G-UZJN",
+                "mac": "ac:17:c8:11:54:8e",
+                "lanIp": "172.18.0.185",
+                "model": "MR33"
+            },
+            {
+                "serial": "Q2JD-QMLK-WST8",
+                "mac": "e0:55:3d:ac:e3:40",
+                "lanIp": "172.18.0.140",
+                "model": "MR32"
+            },
+            {
+                "serial": "Q2JD-XCD9-ANXF",
+                "mac": "e0:55:3d:a9:3c:20",
+                "lanIp": "172.18.0.161",
+                "model": "MR32"
+            },
+            {
+                "serial": "Q2JD-VBAF-MUAU",
+                "mac": "e0:55:3d:bb:d3:30",
+                "lanIp": "172.18.0.172",
+                "model": "MR32"
+            },
+            {
+                "serial": "Q2JD-L854-TR8P",
+                "mac": "e0:55:3d:a8:60:c0",
+                "lanIp": "172.18.0.144",
+                "model": "MR32"
+            },
+            {
+                "serial": "Q2JD-QMMT-ATFH",
+                "mac": "e0:55:3d:ac:e3:50",
+                "lanIp": "172.18.0.146",
+                "model": "MR32"
+            },
+            {
+                "serial": "Q2PD-F9KT-ATUK",
+                "mac": "ac:17:c8:11:4e:9c",
+                "lanIp": "172.18.0.183",
+                "model": "MR33"
+            },
+            {
+                "serial": "Q2JD-QMYD-CQK3",
+                "mac": "e0:55:3d:ac:e3:e0",
+                "lanIp": "172.18.0.137",
+                "model": "MR32"
+            },
+            {
+                "serial": "Q2JD-CNC9-VQWP",
+                "mac": "e0:55:3d:ab:12:a0",
+                "lanIp": "172.18.0.142",
+                "model": "MR32"
+            },
+            {
+                "serial": "Q2JD-D9XU-6GMV",
+                "mac": "e0:55:3d:ab:29:b0",
+                "lanIp": "172.18.0.162",
+                "model": "MR32"
+            },
+            {
+                "serial": "Q2LD-DZ8Q-TW6Y",
+                "mac": "88:15:44:50:72:2e",
+                "lanIp": "172.18.0.149",
+                "model": "MR52"
+            },
+            {
+                "serial": "Q2JD-SVUM-E3JU",
+                "mac": "e0:55:3d:a8:e5:60",
+                "lanIp": "172.18.0.170",
+                "model": "MR32"
+            },
+            {
+                "serial": "Q2JD-USW8-C4QV",
+                "mac": "e0:55:3d:bb:bf:50",
+                "lanIp": "172.18.0.176",
+                "model": "MR32"
+            },
+            {
+                "serial": "Q2JD-PRS3-3Y34",
+                "mac": "e0:55:3d:ba:fc:10",
+                "lanIp": "172.18.0.171",
+                "model": "MR32"
+            },
+            {
+                "serial": "Q2JD-XEV7-X56P",
+                "mac": "e0:55:3d:a9:3d:e0",
+                "lanIp": "172.18.0.157",
+                "model": "MR32"
+            },
+            {
+                "serial": "Q2MD-D3PR-NHZ4",
+                "mac": "ac:17:c8:a3:0c:f0",
+                "lanIp": "172.18.0.225",
+                "model": "MR53"
+            },
+            {
+                "serial": "Q2JD-TT4H-DLB7",
+                "mac": "e0:55:3d:a8:f6:e0",
+                "lanIp": "172.18.0.135",
+                "model": "MR32"
+            },
+            {
+                "serial": "Q2MD-JFLA-3DHS",
+                "mac": "ac:17:c8:a3:21:04",
+                "lanIp": "172.18.0.230",
+                "model": "MR53"
+            },
+            {
+                "serial": "Q2JD-PG8C-6WJ2",
+                "mac": "e0:55:3d:ac:b7:00",
+                "lanIp": "172.18.0.158",
+                "model": "MR32"
+            },
+            {
+                "serial": "Q2JD-MBNW-JYES",
+                "mac": "e0:55:3d:ac:5f:70",
+                "lanIp": "172.18.0.168",
+                "model": "MR32"
+            },
+            {
+                "serial": "Q2LD-XGN8-9MSU",
+                "mac": "88:15:44:50:71:36",
+                "lanIp": "172.18.0.147",
+                "model": "MR52"
+            },
+            {
+                "serial": "Q2PD-DVWY-HRWE",
+                "mac": "ac:17:c8:11:4b:6b",
+                "lanIp": "172.18.0.182",
+                "model": "MR33"
+            },
+            {
+                "serial": "Q2LD-XCNS-2EEU",
+                "mac": "88:15:44:50:6e:b4",
+                "lanIp": "172.18.0.167",
+                "model": "MR52"
+            },
+            {
+                "serial": "Q2JD-QMW4-HFC8",
+                "mac": "e0:55:3d:ac:e3:a0",
+                "lanIp": "172.18.0.154",
+                "model": "MR32"
+            },
+            {
+                "serial": "Q2PD-GVYX-3KEL",
+                "mac": "e0:cb:bc:31:04:c3",
+                "lanIp": "172.18.0.180",
+                "model": "MR33"
+            },
+            {
+                "serial": "Q2JD-QMUR-CL32",
+                "mac": "e0:55:3d:ac:e3:90",
+                "lanIp": "172.18.0.153",
+                "model": "MR32"
+            },
+            {
+                "serial": "Q2MD-MW35-YDUR",
+                "mac": "ac:17:c8:a3:24:7a",
+                "lanIp": "172.18.0.232",
+                "model": "MR53"
+            },
+            {
+                "serial": "Q2MD-ZRB4-HNSZ",
+                "mac": "ac:17:c8:a3:0f:86",
+                "lanIp": "172.18.0.229",
+                "model": "MR53"
+            },
+            {
+                "serial": "Q2JD-XPDU-AXVJ",
+                "mac": "e0:55:3d:92:ff:d0",
+                "lanIp": "172.18.0.134",
+                "model": "MR32"
+            },
+            {
+                "serial": "Q2JD-QM8Q-3EQB",
+                "mac": "e0:55:3d:ac:e2:f0",
+                "lanIp": "172.18.0.141",
+                "model": "MR32"
+            },
+            {
+                "serial": "Q2JD-E49W-UPWM",
+                "mac": "e0:55:3d:ab:4c:a0",
+                "lanIp": "172.18.0.145",
+                "model": "MR32"
+            },
+            {
+                "serial": "Q2MD-L5XV-VMYR",
+                "mac": "ac:17:c8:a3:22:9e",
+                "lanIp": "172.18.0.231",
+                "model": "MR53"
+            },
+            {
+                "serial": "Q2LD-DN69-FMR7",
+                "mac": "88:15:44:50:66:32",
+                "lanIp": "172.18.0.178",
+                "model": "MR52"
+            },
+            {
+                "serial": "Q2MD-YGL3-CK6J",
+                "mac": "ac:17:c8:a3:0f:4a",
+                "lanIp": "172.18.0.228",
+                "model": "MR53"
+            },
+            {
+                "serial": "Q2PD-F9P8-ULS2",
+                "mac": "ac:17:c8:11:4e:a0",
+                "lanIp": "172.18.0.184",
+                "model": "MR33"
+            },
+            {
+                "serial": "Q2JD-F9L7-VE9A",
+                "mac": "e0:55:3d:ab:78:10",
+                "lanIp": "172.18.0.165",
+                "model": "MR32"
+            },
+            {
+                "serial": "Q2JD-CUBJ-ULJ6",
+                "mac": "e0:55:3d:ab:19:80",
+                "lanIp": "172.18.0.132",
+                "model": "MR32"
+            },
+            {
+                "serial": "Q2JD-XFRX-2K9Z",
+                "mac": "e0:55:3d:a9:3e:80",
+                "lanIp": "172.18.0.164",
+                "model": "MR32"
+            },
+            {
+                "serial": "Q2MD-Y7MP-DXCR",
+                "mac": "ac:17:c8:a3:0f:3c",
+                "lanIp": "172.18.0.227",
+                "model": "MR53"
+            },
+            {
+                "serial": "Q2LD-F62W-VTEL",
+                "mac": "88:15:44:50:66:38",
+                "lanIp": "172.18.0.177",
+                "model": "MR52"
+            },
+            {
+                "serial": "Q2MD-CKPP-SR2Z",
+                "mac": "ac:17:c8:a3:0c:cc",
+                "lanIp": "172.18.0.189",
+                "model": "MR53"
+            },
+            {
+                "serial": "Q2PD-QDEH-M8Z3",
+                "mac": "ac:17:c8:11:65:03",
+                "lanIp": "172.18.0.186",
+                "model": "MR33"
+            },
+            {
+                "serial": "Q2JD-DBFC-CL4T",
+                "mac": "e0:55:3d:bd:70:60",
+                "lanIp": "172.18.0.159",
+                "model": "MR32"
+            },
+            {
+                "serial": "Q2JD-XHB7-Z57T",
+                "mac": "e0:55:3d:a9:3f:c0",
+                "lanIp": "172.18.0.136",
+                "model": "MR32"
+            },
+            {
+                "serial": "Q2MD-P25K-T75L",
+                "mac": "ac:17:c8:a3:25:b4",
+                "lanIp": "172.18.0.233",
+                "model": "MR53"
+            },
+            {
+                "serial": "Q2JD-CSF2-GQZ5",
+                "mac": "e0:55:3d:ab:16:f0",
+                "lanIp": "172.18.0.148",
+                "model": "MR32"
+            },
+            {
+                "serial": "Q2JD-H5FX-4GLV",
+                "mac": "e0:55:3d:b9:f4:e0",
+                "lanIp": "172.18.0.166",
+                "model": "MR32"
+            },
+            {
+                "serial": "Q2PD-3G7U-CL4N",
+                "mac": "e0:cb:bc:48:49:0e",
+                "lanIp": "172.18.0.181",
+                "model": "MR33"
+            },
+            {
+                "serial": "Q2JD-DFSX-33VR",
+                "mac": "e0:55:3d:ab:31:c0",
+                "lanIp": "172.18.0.133",
+                "model": "MR32"
+            },
+            {
+                "serial": "Q2JD-M872-YGW9",
+                "mac": "e0:55:3d:ba:98:20",
+                "lanIp": "172.18.0.173",
+                "model": "MR32"
+            },
+            {
+                "serial": "Q2LD-TREE-ZY65",
+                "mac": "88:15:44:50:66:2a",
+                "lanIp": "172.18.0.179",
+                "model": "MR52"
+            },
+            {
+                "serial": "Q2LD-5A82-QKNK",
+                "mac": "88:15:44:50:d7:f2",
+                "lanIp": "172.18.0.190",
+                "model": "MR52"
+            },
+            {
+                "serial": "Q2MD-8LX6-8CJ8",
+                "mac": "ac:17:c8:a3:0c:4a",
+                "lanIp": "172.18.0.188",
+                "model": "MR53"
+            },
+            {
+                "serial": "Q2JD-CNH8-XTSX",
+                "mac": "e0:55:3d:ab:12:e0",
+                "lanIp": "172.18.0.163",
+                "model": "MR32"
+            },
+            {
+                "serial": "Q2MD-K8UF-4QR8",
+                "mac": "ac:17:c8:a3:0d:a4",
+                "lanIp": "172.18.0.226",
+                "model": "MR53"
+            },
+            {
+                "serial": "Q2JD-YE5H-RFZ7",
+                "mac": "e0:55:3d:a9:52:00",
+                "lanIp": "172.18.0.139",
+                "model": "MR32"
+            },
+            {
+                "serial": "Q2KW-99A3-U442",
+                "mac": "ac:17:c8:e9:86:c0",
+                "lanIp": "172.18.0.129",
+                "model": "MS225-48FP"
+            },
+            {
+                "serial": "Q2NP-FRNR-J3KN",
+                "mac": "88:15:44:ed:8f:1f",
+                "lanIp": "172.18.0.131",
+                "model": "MS220-48FP"
+            },
+            {
+                "serial": "Q2NP-AW5M-MTMC",
+                "mac": "88:15:44:ed:9d:68",
+                "lanIp": "172.18.0.130",
+                "model": "MS220-48FP"
+            }
+        ]
+    },
+    "L_651896046061887206": {
+        "name": "san01",
+        "NumberOfDevices": "7",
+        "Devices": [
+            {
+                "serial": "Q2PD-DDZD-EEBR",
+                "mac": "0c:8d:db:66:2a:3c",
+                "lanIp": "172.16.0.11",
+                "model": "MR33"
+            },
+            {
+                "serial": "Q2PD-DEYF-K8E5",
+                "mac": "0c:8d:db:66:2a:56",
+                "lanIp": "172.16.0.12",
+                "model": "MR33"
+            },
+            {
+                "serial": "Q2PD-E8ZN-JHEH",
+                "mac": "0c:8d:db:66:2c:6b",
+                "lanIp": "172.16.0.13",
+                "model": "MR33"
+            },
+            {
+                "serial": "Q2PD-CMNS-ETHF",
+                "mac": "e0:cb:bc:31:b4:cd",
+                "lanIp": "172.16.0.5",
+                "model": "MR33"
+            },
+            {
+                "serial": "Q2PD-6979-BJ5Y",
+                "mac": "e0:cb:bc:31:93:af",
+                "lanIp": "172.16.0.16",
+                "model": "MR33"
+            },
+            {
+                "serial": "Q2PD-CY3U-P9YM",
+                "mac": "e0:cb:bc:31:b6:7a",
+                "lanIp": "172.16.0.9",
+                "model": "MR33"
+            },
+            {
+                "serial": "Q2HP-3RWU-RYE6",
+                "mac": "e0:55:3d:d1:d2:e6",
+                "lanIp": "172.16.0.3",
+                "model": "MS220-8P"
+            }
+        ]
+    },
+    "L_684547143360319370": {
+        "name": "SNA01",
+        "NumberOfDevices": "8",
+        "Devices": [
+            {
+                "serial": "Q2HP-HQQV-9WCF",
+                "mac": "e0:55:3d:d2:ed:e4",
+                "lanIp": "172.25.32.10",
+                "model": "MS220-8P"
+            },
+            {
+                "serial": "Q2HP-DY48-293U",
+                "mac": "e0:55:3d:d2:d7:3f",
+                "lanIp": "172.25.32.11",
+                "model": "MS220-8P"
+            },
+            {
+                "serial": "Q2PD-RJHL-LV6F",
+                "mac": "e0:cb:bc:96:9d:67",
+                "lanIp": "172.25.32.15",
+                "model": "MR33"
+            },
+            {
+                "serial": "Q2PD-FV3Y-UJWB",
+                "mac": "e0:cb:bc:96:7f:8b",
+                "lanIp": "172.25.32.13",
+                "model": "MR33"
+            },
+            {
+                "serial": "Q2PD-SWCE-L56M",
+                "mac": "e0:cb:bc:96:a1:a2",
+                "lanIp": "172.25.32.17",
+                "model": "MR33"
+            },
+            {
+                "serial": "Q2PD-R959-YSSZ",
+                "mac": "e0:cb:bc:96:9c:89",
+                "lanIp": "172.25.32.14",
+                "model": "MR33"
+            },
+            {
+                "serial": "Q2PD-S9EL-A98V",
+                "mac": "e0:cb:bc:96:9f:98",
+                "lanIp": "172.25.32.16",
+                "model": "MR33"
+            },
+            {
+                "serial": "Q2PD-RPYG-HXPD",
+                "mac": "e0:cb:bc:96:3c:93",
+                "lanIp": "172.25.32.12",
+                "model": "MR33"
+            }
+        ]
+    },
+    "L_684547143360320641": {
+        "name": "BOS03",
+        "NumberOfDevices": "10",
+        "Devices": [
+            {
+                "serial": "Q2MD-PWFB-H567",
+                "mac": "e0:cb:bc:51:c2:04",
+                "lanIp": "172.25.40.13",
+                "model": "MR53"
+            },
+            {
+                "serial": "Q2MD-TRS8-HFZX",
+                "mac": "e0:cb:bc:51:c2:9a",
+                "lanIp": "172.25.40.14",
+                "model": "MR53"
+            },
+            {
+                "serial": "Q2MD-44SB-JFJ3",
+                "mac": "e0:cb:bc:51:cc:86",
+                "lanIp": "172.25.40.16",
+                "model": "MR53"
+            },
+            {
+                "serial": "Q2MD-VHSB-E3E5",
+                "mac": "e0:cb:bc:51:ca:d2",
+                "lanIp": "172.25.40.15",
+                "model": "MR53"
+            },
+            {
+                "serial": "Q2MD-JWB4-38AV",
+                "mac": "e0:cb:bc:51:e9:e0",
+                "lanIp": "172.25.40.20",
+                "model": "MR53"
+            },
+            {
+                "serial": "Q2MD-ZULZ-J4JM",
+                "mac": "e0:cb:bc:51:d4:5c",
+                "lanIp": "172.25.40.18",
+                "model": "MR53"
+            },
+            {
+                "serial": "Q2MD-TZ4T-PT5D",
+                "mac": "e0:cb:bc:51:d2:c8",
+                "lanIp": "172.25.40.17",
+                "model": "MR53"
+            },
+            {
+                "serial": "Q2PD-49D9-UTYB",
+                "mac": "34:56:fe:a0:81:cd",
+                "lanIp": "172.25.40.12",
+                "model": "MR33"
+            },
+            {
+                "serial": "Q2MD-GT6S-9SE7",
+                "mac": "e0:cb:bc:51:e0:de",
+                "lanIp": "172.25.40.19",
+                "model": "MR53"
+            },
+            {
+                "serial": "Q2GW-HZED-Q93G",
+                "mac": "ac:17:c8:30:79:e0",
+                "lanIp": "172.25.40.11",
+                "model": "MS225-24P"
+            }
+        ]
+    },
+    "L_684547143360324186": {
+        "name": "SNA02",
+        "NumberOfDevices": "25",
+        "Devices": [
+            {
+                "serial": "Q2KW-NNE2-JNJC",
+                "mac": "68:3a:1e:a3:15:ee",
+                "lanIp": "172.25.48.9",
+                "model": "MS225-48FP"
+            },
+            {
+                "serial": "Q2PD-FC52-4NDG",
+                "mac": "68:3a:1e:32:39:4a",
+                "lanIp": "172.25.48.35",
+                "model": "MR33"
+            },
+            {
+                "serial": "Q2PD-FZAT-NP84",
+                "mac": "68:3a:1e:32:3b:14",
+                "lanIp": "172.25.48.41",
+                "model": "MR33"
+            },
+            {
+                "serial": "Q2PD-DF9K-BMK2",
+                "mac": "68:3a:1e:32:34:20",
+                "lanIp": "172.25.48.51",
+                "model": "MR33"
+            },
+            {
+                "serial": "Q2PD-DCPB-GWJ5",
+                "mac": "68:3a:1e:32:33:e3",
+                "lanIp": "172.25.48.48",
+                "model": "MR33"
+            },
+            {
+                "serial": "Q2PD-DPMU-HBKE",
+                "mac": "68:3a:1e:32:34:d8",
+                "lanIp": "172.25.48.49",
+                "model": "MR33"
+            },
+            {
+                "serial": "Q2PD-DAZP-EPNY",
+                "mac": "68:3a:1e:32:33:b6",
+                "lanIp": "172.25.48.38",
+                "model": "MR33"
+            },
+            {
+                "serial": "Q2PD-DQ5T-9PEW",
+                "mac": "68:3a:1e:32:34:de",
+                "lanIp": "172.25.48.50",
+                "model": "MR33"
+            },
+            {
+                "serial": "Q2PD-CWYP-P66H",
+                "mac": "68:3a:1e:32:32:ae",
+                "lanIp": "172.25.48.45",
+                "model": "MR33"
+            },
+            {
+                "serial": "Q2PD-CXQV-ZHWQ",
+                "mac": "68:3a:1e:32:32:bf",
+                "lanIp": "172.25.48.33",
+                "model": "MR33"
+            },
+            {
+                "serial": "Q2PD-EK93-L3VD",
+                "mac": "68:3a:1e:32:37:3d",
+                "lanIp": "172.25.48.40",
+                "model": "MR33"
+            },
+            {
+                "serial": "Q2PD-EM54-PHXY",
+                "mac": "68:3a:1e:32:37:62",
+                "lanIp": "172.25.48.42",
+                "model": "MR33"
+            },
+            {
+                "serial": "Q2PD-E7VQ-RQSQ",
+                "mac": "68:3a:1e:32:36:4c",
+                "lanIp": "172.25.48.47",
+                "model": "MR33"
+            },
+            {
+                "serial": "Q2MD-G64Q-ZNER",
+                "mac": "ac:17:c8:a3:a9:c2",
+                "lanIp": "172.25.48.56",
+                "model": "MR53"
+            },
+            {
+                "serial": "Q2MD-BZH8-8Y8X",
+                "mac": "ac:17:c8:a3:a4:b8",
+                "lanIp": "172.25.48.55",
+                "model": "MR53"
+            },
+            {
+                "serial": "Q2PD-CMKE-FMRA",
+                "mac": "68:3a:1e:32:31:e9",
+                "lanIp": "172.25.48.39",
+                "model": "MR33"
+            },
+            {
+                "serial": "Q2PD-CU8U-H4AU",
+                "mac": "68:3a:1e:32:32:6c",
+                "lanIp": "172.25.48.36",
+                "model": "MR33"
+            },
+            {
+                "serial": "Q2PD-CSQV-F3DV",
+                "mac": "68:3a:1e:32:32:3b",
+                "lanIp": "172.25.48.34",
+                "model": "MR33"
+            },
+            {
+                "serial": "Q2PD-DE29-U2MV",
+                "mac": "68:3a:1e:32:34:02",
+                "lanIp": "172.25.48.37",
+                "model": "MR33"
+            },
+            {
+                "serial": "Q2PD-FRF3-M45K",
+                "mac": "68:3a:1e:32:3a:64",
+                "lanIp": "172.25.48.43",
+                "model": "MR33"
+            },
+            {
+                "serial": "Q2MD-943W-5EXF",
+                "mac": "ac:17:c8:a3:a1:22",
+                "lanIp": "172.25.48.53",
+                "model": "MR53"
+            },
+            {
+                "serial": "Q2PD-FQAE-X938",
+                "mac": "68:3a:1e:32:3a:4d",
+                "lanIp": "172.25.48.52",
+                "model": "MR33"
+            },
+            {
+                "serial": "Q2PD-CWP5-AYYZ",
+                "mac": "68:3a:1e:32:32:a4",
+                "lanIp": "172.25.48.44",
+                "model": "MR33"
+            },
+            {
+                "serial": "Q2PD-G26H-5NAM",
+                "mac": "68:3a:1e:32:3b:29",
+                "lanIp": "172.25.48.46",
+                "model": "MR33"
+            },
+            {
+                "serial": "Q2MD-H98M-9DT4",
+                "mac": "ac:17:c8:a3:ab:20",
+                "lanIp": "172.25.48.54",
+                "model": "MR53"
+            }
+        ]
+    },
+    "L_732397889401127443": {
+        "name": "JFK01",
+        "NumberOfDevices": "5",
+        "Devices": [
+            {
+                "serial": "Q2CX-HUD8-8YLN",
+                "mac": "98:18:88:d4:45:2f",
+                "lanIp": "172.25.56.10",
+                "model": "MS120-8FP"
+            },
+            {
+                "serial": "Q2MD-AFSM-ASVL",
+                "mac": "ac:17:c8:c8:8c:0d",
+                "lanIp": "172.25.56.16",
+                "model": "MR53"
+            },
+            {
+                "serial": "Q2PD-CTE7-YTVF",
+                "mac": "98:18:88:c6:ca:f1",
+                "lanIp": "172.25.56.18",
+                "model": "MR33"
+            },
+            {
+                "serial": "Q2PD-DPJL-Y4Q2",
+                "mac": "98:18:88:c6:ce:e9",
+                "lanIp": null,
+                "model": "MR33"
+            },
+            {
+                "serial": "Q2PD-ARTS-U469",
+                "mac": "98:18:88:c6:c1:ae",
+                "lanIp": null,
+                "model": "MR33"
+            }
+        ]
+    },
+    "L_732397889401127743": {
+        "name": "TLV01",
+        "NumberOfDevices": "19",
+        "Devices": [
+            {
+                "serial": "Q3AJ-V4RJ-JJ4G",
+                "mac": "98:18:88:bd:27:97",
+                "lanIp": "10.207.200.48",
+                "model": "MR36"
+            },
+            {
+                "serial": "Q3AB-AK6C-44JN",
+                "mac": "98:18:88:fe:2b:16",
+                "lanIp": "10.207.200.45",
+                "model": "MR56"
+            },
+            {
+                "serial": "Q3AB-CJZB-3YUV",
+                "mac": "98:18:88:fe:2b:04",
+                "lanIp": "10.207.200.50",
+                "model": "MR56"
+            },
+            {
+                "serial": "Q3AB-BAGG-AQFY",
+                "mac": "98:18:88:fe:2a:fe",
+                "lanIp": "10.207.200.44",
+                "model": "MR56"
+            },
+            {
+                "serial": "Q3AB-8B2A-4NZG",
+                "mac": "98:18:88:fe:2a:f4",
+                "lanIp": "10.207.200.39",
+                "model": "MR56"
+            },
+            {
+                "serial": "Q3AJ-HVAC-VA5T",
+                "mac": "98:18:88:bd:27:76",
+                "lanIp": "10.207.200.62",
+                "model": "MR36"
+            },
+            {
+                "serial": "Q3AB-3WCJ-3S72",
+                "mac": "98:18:88:fe:2a:dd",
+                "lanIp": null,
+                "model": "MR56"
+            },
+            {
+                "serial": "Q3AB-J6JC-ABTQ",
+                "mac": "98:18:88:fe:2b:0c",
+                "lanIp": "10.207.200.64",
+                "model": "MR56"
+            },
+            {
+                "serial": "Q3AB-NRLC-BX4W",
+                "mac": "98:18:88:fe:2b:2c",
+                "lanIp": "10.207.200.42",
+                "model": "MR56"
+            },
+            {
+                "serial": "Q3AB-AFBW-8UZC",
+                "mac": "98:18:88:fe:2a:f8",
+                "lanIp": "10.207.200.47",
+                "model": "MR56"
+            },
+            {
+                "serial": "Q3AB-VWRP-9GJG",
+                "mac": "98:18:88:fe:2a:f9",
+                "lanIp": "10.207.200.51",
+                "model": "MR56"
+            },
+            {
+                "serial": "Q3AJ-6W85-KVKP",
+                "mac": "98:18:88:bd:27:98",
+                "lanIp": "10.207.200.49",
+                "model": "MR36"
+            },
+            {
+                "serial": "Q3AB-5V7U-6N3X",
+                "mac": "98:18:88:fe:2b:4c",
+                "lanIp": "10.207.200.40",
+                "model": "MR56"
+            },
+            {
+                "serial": "Q3AB-3RH5-EDZQ",
+                "mac": "98:18:88:fe:2a:fa",
+                "lanIp": "10.207.200.65",
+                "model": "MR56"
+            },
+            {
+                "serial": "Q3AB-T4T5-6RRM",
+                "mac": "98:18:88:fe:2a:9f",
+                "lanIp": null,
+                "model": "MR56"
+            },
+            {
+                "serial": "Q3AB-RYUV-LWLX",
+                "mac": "98:18:88:fe:2b:12",
+                "lanIp": "10.207.200.46",
+                "model": "MR56"
+            },
+            {
+                "serial": "Q3AJ-PUFR-CCCB",
+                "mac": "98:18:88:bd:27:a9",
+                "lanIp": "10.207.200.52",
+                "model": "MR36"
+            },
+            {
+                "serial": "Q3AB-9R3L-W5MQ",
+                "mac": "98:18:88:fe:2b:32",
+                "lanIp": "10.207.200.41",
+                "model": "MR56"
+            },
+            {
+                "serial": "Q2KW-WSWY-TK3F",
+                "mac": "68:3a:1e:af:5b:2e",
+                "lanIp": "10.207.200.7",
+                "model": "MS225-48FP"
+            }
+        ]
+    },
+    "L_732397889401127747": {
+        "name": "SYD01",
+        "NumberOfDevices": "16",
+        "Devices": [
+            {
+                "serial": "Q3AB-DJHK-GQFV",
+                "mac": "98:18:88:fe:30:f7",
+                "lanIp": "10.207.136.51",
+                "model": "MR56"
+            },
+            {
+                "serial": "Q3AB-VRG8-S3AE",
+                "mac": "98:18:88:fe:2e:f5",
+                "lanIp": "10.207.136.57",
+                "model": "MR56"
+            },
+            {
+                "serial": "Q3AB-Z5YW-P48G",
+                "mac": "98:18:88:fe:31:a6",
+                "lanIp": "10.207.136.50",
+                "model": "MR56"
+            },
+            {
+                "serial": "Q3AB-NDPW-GUYA",
+                "mac": "98:18:88:fe:31:84",
+                "lanIp": "10.207.136.63",
+                "model": "MR56"
+            },
+            {
+                "serial": "Q3AB-VGT6-SALN",
+                "mac": "98:18:88:fe:30:f9",
+                "lanIp": "10.207.136.44",
+                "model": "MR56"
+            },
+            {
+                "serial": "Q3AB-KHXR-DXNU",
+                "mac": "98:18:88:fe:31:56",
+                "lanIp": null,
+                "model": "MR56"
+            },
+            {
+                "serial": "Q3AB-Q6XU-5DYG",
+                "mac": "98:18:88:fe:31:40",
+                "lanIp": "10.207.136.62",
+                "model": "MR56"
+            },
+            {
+                "serial": "Q3AB-H7YB-AGXW",
+                "mac": "98:18:88:fe:31:5a",
+                "lanIp": "10.207.136.61",
+                "model": "MR56"
+            },
+            {
+                "serial": "Q3AB-UT38-CR3X",
+                "mac": "98:18:88:fe:30:f8",
+                "lanIp": "10.207.136.65",
+                "model": "MR56"
+            },
+            {
+                "serial": "Q3AB-GT6R-VVFU",
+                "mac": "98:18:88:fe:31:01",
+                "lanIp": "10.207.136.58",
+                "model": "MR56"
+            },
+            {
+                "serial": "Q3AB-638F-B8FG",
+                "mac": "98:18:88:fe:31:31",
+                "lanIp": "10.207.136.54",
+                "model": "MR56"
+            },
+            {
+                "serial": "Q3AB-ZHAY-V8ZL",
+                "mac": "98:18:88:fe:31:51",
+                "lanIp": "10.207.136.52",
+                "model": "MR56"
+            },
+            {
+                "serial": "Q3AB-5PK5-87D4",
+                "mac": "98:18:88:fe:31:25",
+                "lanIp": "10.207.136.42",
+                "model": "MR56"
+            },
+            {
+                "serial": "Q3AB-FEAJ-7RL8",
+                "mac": "98:18:88:fe:31:04",
+                "lanIp": null,
+                "model": "MR56"
+            },
+            {
+                "serial": "Q3AB-27W6-FCDQ",
+                "mac": "98:18:88:fe:31:15",
+                "lanIp": "10.207.136.53",
+                "model": "MR56"
+            },
+            {
+                "serial": "Q2KW-WRQ8-DRNS",
+                "mac": "68:3a:1e:af:48:26",
+                "lanIp": "10.207.136.7",
+                "model": "MS225-48FP"
+            }
+        ]
+    }
+}
